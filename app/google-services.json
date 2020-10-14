@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "555515546827",
+    "firebase_url": "https://photoshare-1e68c.firebaseio.com",
+    "project_id": "photoshare-1e68c",
+    "storage_bucket": "photoshare-1e68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555515546827:android:e3dfa8c8c60fd476b89f4e",
+        "android_client_info": {
+          "package_name": "com.hasanakcay.photoshareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555515546827-efb8hvg8bvg28qh9mv4v1ehmh4qvb3qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuPStJbRCQCq8qXm-A2b8ick6sqE5Znko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555515546827-efb8hvg8bvg28qh9mv4v1ehmh4qvb3qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
